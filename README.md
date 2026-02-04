@@ -100,8 +100,7 @@ Otherwise, **death is deleted from daily life**.
 ---
 
 ## 🔗 Original Gist
-
-HTP Rollback Immortality — [Gist Version](https://gist.github.com/ChaosGod208/d2c3f019ea0f3bfcadce5aee9e9eab6c)  
+ 
 Full gist archive (100+ frameworks): [ChaosGod208 gist](https://gist.github.com/ChaosGod208)
 
 ---
